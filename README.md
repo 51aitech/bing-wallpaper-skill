@@ -4,6 +4,8 @@ A reusable AI-agent skill and lightweight daily Bing wallpaper updater. Uses Pyt
 
 This is an independent project, not Microsoft's official Bing Wallpaper app.
 
+Follow [@51aitech on X](https://x.com/51aitech) for project updates.
+
 ## Install the skill
 
 Clone this repository into your agent's skill directory under the name `bing-wallpaper`. For Codex:
