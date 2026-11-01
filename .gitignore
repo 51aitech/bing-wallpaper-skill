@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.download
+*.lock
+current.json
+*.plist
+*.plist.disabled
